@@ -1,21 +1,20 @@
 img {
     width: 100%;
     height: 250px;
-    object-fit: cover;
 }
 
 h1 {
-    background-color: aqua;
+    background-color: rgb(50, 161, 161);
 }
 h2 {
-    background-color: antiquewhite;
+    background-color: rgb(85, 79, 71);
 }
 h3 {
-    background-color: azure;
+    background-color: rgb(39, 180, 180);
 }
 <p> {
-    background-color: beige;
+    background-color: rgb(219, 219, 66);
 }
 html {
-    background-color: aquamarine;
+    background-color: rgb(95, 187, 157);
 }
